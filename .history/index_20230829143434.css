@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    background-color: #D4E2D4;
+   min-height: 100vh;
+   width: 100%;
+}
+form{
+    width: 30%;
+    padding: 30px;
+    background-color: #DBC4F0;
+    border-radius: ;
+}
